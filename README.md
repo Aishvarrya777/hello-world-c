@@ -4,4 +4,4 @@ My first C program
 gcc hello.c -o hello
 ./hello
 ## Student
-Akshitha N
+Aishvarrya
